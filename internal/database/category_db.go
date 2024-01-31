@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/Willianrsg/go-api/internal/entity"
+	"github.com/Willianrsg/wdn-store-api/internal/entity"
 )
 
 type CategoryDB struct {
